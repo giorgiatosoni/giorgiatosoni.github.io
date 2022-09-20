@@ -25,7 +25,7 @@ It’s all about brain and single cell RNA-sequencing.
 
 ## Publications
 
-Penning A, **Tosoni G** , Abiega O, Bielefeld P, Gasperini C, De Pietri Tonell D, Fitzsimons C, Salta E. Adult Neural Stem Cell Regulation by Small Non-Coding RNAs: Physiological Significance and Pathological Implications. Front. Cell. Neurosci., 04 January 2022 Sec. Cellular Neurophysiology https://doi.org/10.3389/fncel.2021.781434
+Penning A, <strong>Tosoni G</strong> , Abiega O, Bielefeld P, Gasperini C, De Pietri Tonell D, Fitzsimons C, Salta E. Adult Neural Stem Cell Regulation by Small Non-Coding RNAs: Physiological Significance and Pathological Implications. Front. Cell. Neurosci., 04 January 2022 Sec. Cellular Neurophysiology https://doi.org/10.3389/fncel.2021.781434
 
 Walgrave H, Balusu S, Snoeck S, Vanden Eynden E, Craessaerts K, Thrupp N, Wolfs L, Horré K, Fourne Y, Ronisz A, Silajdžić E, Penning A, **Tosoni G** , Callaerts-Vegh Z, D'Hooge R, Thal DR, Zetterberg H, Thuret S, Fiers M, Frigerio CS, De Strooper B, Salta E. Restoring miR-132 expression rescues adult hippocampal neurogenesis and memory deficits in Alzheimer's disease. Cell Stem Cell. 2021 Oct 7;28(10):1805-1821.e8. doi: 10.1016/j.stem.2021.05.001. Epub 2021 May 24. PMID: 34033742.
 
