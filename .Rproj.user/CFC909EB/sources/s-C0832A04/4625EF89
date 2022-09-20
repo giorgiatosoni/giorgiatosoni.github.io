@@ -3,24 +3,24 @@
     "path": "~/mywebsite/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2203200581",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1663666097187.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,406",
-        "scrollLine": "16"
+        "cursorPosition": "31,25",
+        "scrollLine": "18"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663676130,
+    "lastKnownWriteTime": 1663676676,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663676152956,
+    "last_content_update": 1663676676729,
     "read_only": false,
     "read_only_alternatives": []
 }
