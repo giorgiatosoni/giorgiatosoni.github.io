@@ -16,11 +16,12 @@ site: distill::distill_website
   
 ---
  
-## Bio
+## Bio 👩🏽‍🔬👩🏽‍💻
 
-<p>I am a PhD student living in Amsterdam 🇳🇱.<br>
-Currently I work in the laboratory of Neurogenesis & Neurodegeneration at the Netherlands Institute for Neuroscience.</p> 
-...Here it's all about brain and single cell RNA-sequencing 🧠👩🏽‍🔬👩🏽‍💻
+<p>I am a PhD student in neuroscience working in the [Neurogenesis & Neurodegeneration lab](https://nin.nl/research/researchgroups/salta-group/) at the Netherlands Institute for Neuroscience 🇳🇱. <br>
+I am a molecular biologist by training, trying to dig into some single cell RNA-sequencing datasets (and having fun creating this website!).
+My main interests are adult hippocampal neurogenesis, Alzheimer's disease and non-coding RNAs. <p>
+...Good food, good books, sports and fighting for human rights and a sustainable future make me happy. 
 
 
 ## Publications
